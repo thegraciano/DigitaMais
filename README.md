@@ -1,7 +1,16 @@
-Este repositório foi desenvolvido com o objetivo de auxiliar na criação de atividades educativas, interativas e socioassistenciais voltadas para crianças, adolescentes e famílias atendidas pelos serviços de convivência e fortalecimento de vínculos (SCFV), além de ações realizadas pelo CREAS.
+Este projeto foi desenvolvido com finalidade educativa e socioassistencial, sendo utilizado como ferramenta de apoio para crianças e adolescentes atendidos pelos Serviços de Convivência e Fortalecimento de Vínculos (SCFV).
 
-O projeto busca promover inclusão digital, aprendizado lúdico, desenvolvimento social e fortalecimento dos vínculos comunitários por meio de ferramentas, jogos, dinâmicas e conteúdos educativos acessíveis.
+O site tem como objetivo auxiliar na iniciação e no aperfeiçoamento das habilidades de escrita e digitação, promovendo aprendizado de forma lúdica, interativa e acessível.
 
-As atividades aqui presentes são utilizadas como apoio em oficinas, atendimentos e ações socioeducativas, contribuindo para o desenvolvimento da criatividade, raciocínio lógico, interação social e participação coletiva dos usuários atendidos.
+As atividades buscam estimular:
 
-Este material possui finalidade educativa, social e pedagógica.
+coordenação motora;
+desenvolvimento da escrita;
+raciocínio rápido;
+concentração;
+familiarização com o computador e teclado;
+inclusão digital.
+
+Além do caráter educativo, o projeto também contribui para ações socioeducativas desenvolvidas em oficinas, acompanhamentos e atividades coletivas realizadas no âmbito da assistência social.
+
+Ferramenta criada para fins pedagógicos, sociais e de fortalecimento de vínculos.
