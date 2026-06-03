@@ -1,3 +1,24 @@
+Changelog — DigitaMais v2.3.0 — 2025-06-03🎨 Contraste & Legibilidade das Atividades
+
+Revisão completa do contraste visual das letras na área de digitação, com foco em legibilidade para crianças
+Letras pendentes saíram de tom quase invisível para texto escuro nítido sobre fundo roxo claro
+Estado correto reforçado: verde mais escuro e saturado, peso de fonte aumentado para feedback imediato
+Estado incorreto reforçado: vermelho mais profundo, diferenciação clara do estado neutro
+Letra atual em destaque: borda e texto em azul-roxo escuro com contraste adequado para telas com brilho reduzido
+Peso tipográfico das letras aumentado de 500 para 700
+Bordas das teclas de atividade reforçadas de 1.5px para 2px
+Modo sílabas recebeu o mesmo tratamento de contraste das letras individuais
+
+⌨️ Teclado Virtual
+Teclado virtual ampliado significativamente para melhor usabilidade em telas menores e para usuários mais jovens
+Altura das teclas aumentada de 40px para 50px
+Largura mínima das teclas aumentada de 28px para 38px
+Tamanho da fonte aumentado de 11px para 14px com peso reforçado para 700
+Teclas especiais e de pontuação também ampliadas proporcionalmente
+Espaçamento entre teclas levemente aumentado
+Cor do texto das teclas em repouso melhorada de cinza-roxo claro para #3b3366
+
+
 Changelog — DigitaMais
 v2.2.0 — 2025-06-02
 
