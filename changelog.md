@@ -1,3 +1,115 @@
+Changelog — DigitaMais
+v2.2.0 — 2025-06-02
+
+🎨 Interface & Experiência Visual
+
+Refatoração completa da identidade visual da plataforma com foco em aparência profissional, moderna e educacional
+
+Layout reestruturado para melhor aproveitamento do espaço horizontal em desktop, reduzindo excesso de áreas vazias laterais
+
+Container principal ampliado para criar sensação de plataforma premium em vez de mini aplicação centralizada
+
+Área de digitação expandida e reposicionada para melhorar foco visual e leitura das palavras
+
+Teclado virtual aproximado da atividade para criar fluxo visual contínuo entre leitura e digitação
+
+Navbar reorganizada com hierarquia visual aprimorada:
+
+informações importantes ganham destaque
+elementos secundários foram suavizados
+redução da aparência de “muitos botões soltos”
+
+Tipografia refinada:
+
+aumento de contraste das letras
+melhoria no espaçamento entre caracteres
+pesos tipográficos ajustados
+legibilidade otimizada para crianças e adolescentes
+
+Teclas da atividade redesenhadas:
+
+bordas mais suaves
+sombras sutis
+melhor separação visual
+aparência mais moderna e limpa
+
+Profundidade visual adicionada:
+
+sombras leves em containers e componentes
+camadas suaves para evitar aparência totalmente flat
+separação visual mais elegante entre áreas da interface
+
+Paleta visual refinada:
+
+branco mantido como cor predominante
+roxo reduzido para função de destaque
+saturação equilibrada
+contraste geral melhorado
+
+Teclado virtual redesenhado:
+
+aparência mais próxima de teclado real
+redução do visual “cartoon”
+melhor feedback visual nas teclas
+destaque da tecla ativa mais elegante
+
+✨ Microinterações & Animações
+
+Adicionadas microanimações suaves em:
+
+hover de botões
+troca de teclas
+indicadores de status
+transições entre fases
+
+Tempo de animação padronizado para sensação de fluidez e responsividade
+
+Redução de efeitos excessivos para experiência mais confortável e moderna
+
+🧠 UX (Experiência do Usuário)
+
+Fluxo visual reorganizado para manter atenção do usuário centralizada na digitação
+
+Melhor distribuição de espaçamento vertical para evitar poluição visual
+
+Interface otimizada para crianças do SCFV:
+
+maior clareza visual
+menos distrações
+leitura mais confortável
+aprendizado mais intuitivo
+
+Melhoria na percepção de progressão e feedback visual durante atividades
+
+🖼️ Fundo & Ambientação
+
+Fundo pontilhado suavizado drasticamente para reduzir aparência genérica/template
+
+Interface geral agora transmite:
+
+sensação de plataforma educacional profissional
+ambiente mais acolhedor
+identidade visual mais sólida e memorável
+
+🏷️ Branding
+
+Nova identidade visual “DigitaMais” integrada à interface
+
+Logo otimizada para:
+
+reconhecimento infantil
+aparência amigável
+melhor escalabilidade
+harmonia com a paleta visual do sistema
+
+Consistência visual aplicada entre:
+
+logo
+botões
+teclado
+indicadores
+telas de atividade
+
 # Changelog — DigitaMais
 
 ## v2.1.0 — 2025-06-02
