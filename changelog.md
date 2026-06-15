@@ -1,4 +1,50 @@
-Changelog — DigitaMais v2.3.0 — 2025-06-03🎨 Contraste & Legibilidade das Atividades
+Changelog — DigitaMais
+v2.4.0 — 2025-06-15
+
+🧩 Temas & Banco de Palavras
+
+Reestruturada completamente a lógica de composição das palavras utilizadas nas atividades.
+
+Anteriormente, ao selecionar um tema que possuía palavras próprias suficientes, o sistema passava a utilizar apenas o conjunto interno do tema, ignorando as palavras personalizadas cadastradas pelo administrador.
+
+Esse comportamento podia reduzir significativamente a quantidade de palavras disponíveis durante a atividade, principalmente em configurações com 30, 40 ou 50 palavras.
+
+Nova lógica implementada:
+
+* Temas agora funcionam como complemento do conteúdo personalizado.
+* As palavras do tema e as palavras cadastradas pelo administrador são sempre combinadas antes do sorteio.
+* Remoção automática de palavras duplicadas durante a composição do pool.
+* Garantia de que a quantidade disponível reflita corretamente o conteúdo cadastrado no sistema.
+* Comportamento unificado entre todos os temas e faixas etárias.
+
+Agora:
+
+* Tema Livre continua utilizando o banco personalizado normalmente.
+* Temas específicos utilizam banco personalizado + palavras do tema.
+* Selecionar um tema não reduz mais a quantidade de palavras disponíveis.
+* Configurações de 10, 20, 30, 40 e 50 palavras funcionam de forma consistente independentemente do tema escolhido.
+
+🎯 Experiência Pedagógica
+
+Maior variedade de palavras durante as atividades.
+
+Melhor aproveitamento do conteúdo personalizado criado por professores e monitores.
+
+Maior previsibilidade na montagem das atividades, eliminando diferenças inesperadas entre temas.
+
+🐛 Correções
+
+* Corrigido bug que limitava atividades ao tamanho interno de determinados temas.
+* Corrigida inconsistência entre a quantidade de palavras exibida na configuração e a quantidade efetivamente utilizada durante o jogo.
+* Corrigido descarte indevido de palavras personalizadas quando temas continham três ou mais palavras próprias.
+
+✅ Resultado
+
+Qualquer tema pode agora ser utilizado sem comprometer o banco de palavras personalizado da instituição, garantindo atividades mais completas, diversificadas e alinhadas ao planejamento pedagógico.
+
+
+
+Changelog — DigitaMais v2.3.0 — 2026-06-03🎨 Contraste & Legibilidade das Atividades
 
 Revisão completa do contraste visual das letras na área de digitação, com foco em legibilidade para crianças
 Letras pendentes saíram de tom quase invisível para texto escuro nítido sobre fundo roxo claro
@@ -20,7 +66,7 @@ Cor do texto das teclas em repouso melhorada de cinza-roxo claro para #3b3366
 
 
 Changelog — DigitaMais
-v2.2.0 — 2025-06-02
+v2.2.0 — 2026-06-02
 
 🎨 Interface & Experiência Visual
 
@@ -133,7 +179,7 @@ telas de atividade
 
 # Changelog — DigitaMais
 
-## v2.1.0 — 2025-06-02
+## v2.1.0 — 2026-06-02
 
 ### 🔒 Segurança
 - Senhas e nome de usuário admin migrados de texto puro para hashes SHA-256 via Web Crypto API nativa (sem dependências externas)
