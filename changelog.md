@@ -1,5 +1,5 @@
 Changelog — DigitaMais
-v2.4.0 — 2025-06-15
+v2.4.0 — 2026-06-15
 
 🧩 Temas & Banco de Palavras
 
