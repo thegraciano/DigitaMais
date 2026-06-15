@@ -1,4 +1,47 @@
 Changelog — DigitaMais
+v2.5.0 — 15/06/2026
+🌧️ Nova Atividade: Chuva de Letras
+
+Adicionada ao DigitaMais uma nova atividade gamificada chamada Chuva de Letras.
+
+Nesta modalidade, as palavras caem pela tela e o aluno deve digitá-las corretamente antes que atinjam o final da área de jogo. A atividade foi desenvolvida para tornar o treinamento de digitação mais dinâmico, estimulando velocidade, atenção e precisão durante a escrita.
+
+🎮 Como funciona
+Palavras aparecem e caem continuamente pela tela.
+O jogador deve digitá-las exatamente como aparecem.
+A validação ocorre em tempo real.
+O objetivo é acertar o maior número possível de palavras antes que elas escapem.
+⚙️ Níveis de dificuldade
+
+Foram adicionados quatro níveis de velocidade para adequar o desafio a diferentes perfis de usuários:
+
+🐢 Lenta
+🚶 Média
+🏃 Rápida
+⚡ Impossível
+
+Cada nível altera a velocidade de queda das palavras, aumentando progressivamente a dificuldade da atividade.
+
+🔢 Quantidade de palavras
+
+Agora é possível escolher a quantidade de palavras utilizadas na partida:
+
+20 palavras
+50 palavras
+100 palavras
+
+Essa configuração permite sessões mais curtas para iniciantes ou desafios mais longos para usuários avançados.
+
+🎯 Benefícios educacionais
+Desenvolvimento da velocidade de digitação.
+Melhoria da coordenação entre leitura e escrita.
+Estímulo à concentração e ao raciocínio rápido.
+Aprendizado de forma divertida e interativa.
+🚀 Resultado
+
+Com a chegada do Chuva de Letras, o DigitaMais amplia seu conjunto de atividades educacionais, oferecendo uma nova forma de praticar digitação através de mecânicas inspiradas em jogos, tornando o aprendizado mais envolvente e desafiador.
+
+Changelog — DigitaMais
 v2.4.0 — 2026-06-15
 
 🧩 Temas & Banco de Palavras
