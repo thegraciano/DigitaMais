@@ -42,7 +42,7 @@ Maior previsibilidade na montagem das atividades, eliminando diferenças inesper
 
 Qualquer tema pode agora ser utilizado sem comprometer o banco de palavras personalizado da instituição, garantindo atividades mais completas, diversificadas e alinhadas ao planejamento pedagógico.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Changelog — DigitaMais v2.3.0 — 2026-06-03🎨 Contraste & Legibilidade das Atividades
 
@@ -64,7 +64,7 @@ Teclas especiais e de pontuação também ampliadas proporcionalmente
 Espaçamento entre teclas levemente aumentado
 Cor do texto das teclas em repouso melhorada de cinza-roxo claro para #3b3366
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Changelog — DigitaMais
 v2.2.0 — 2026-06-02
 
@@ -176,7 +176,7 @@ botões
 teclado
 indicadores
 telas de atividade
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Changelog — DigitaMais
 
 ## v2.1.0 — 2026-06-02
