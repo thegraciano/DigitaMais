@@ -1,3 +1,40 @@
+Changelog — DigitaMais Atualização — 17/06/2026
+
+ Novo Modo de Digitação: Número
+Adicionado um novo modo dedicado exclusivamente ao treinamento de digitação numérica e à familiarização com o teclado numérico (Numpad).
+
+ Teclado Numérico Lateral (Numpad)
+Quando o modo "Número" é selecionado, um teclado numérico lateral completo surge ao lado do teclado virtual principal.
+Indicação visual inteligente: Ao solicitar que o aluno digite um número, a interface destaca simultaneamente a tecla correspondente na fileira superior do teclado principal e no numpad lateral. O objetivo é ensinar os dois posicionamentos possíveis para a digitação de números.
+
+ Progressão por Faixa Etária no modo Número
+ 
+O desafio se adapta automaticamente à idade do aluno:
+5–6 anos: Apenas os números de 0–9, focando no reconhecimento e localização das teclas.
+7–8 anos: Introdução a símbolos e operações básicas (0–9, ponto, vírgula, soma e subtração).
+9–11 anos: Uso do teclado numérico completo com operações avançadas (0–9, +, −, *, /, ., ,, =, %).
+(Nota: O modo de letras "Mista" foi descontinuado para dar lugar a essa nova modalidade e simplificar a interface).
+ Nova Contagem Regressiva de Início
+ 
+O design da contagem regressiva de 3 segundos exibida antes das atividades foi completamente modernizado.
+
+Conta com animações de entrada suaves, um anel circular com gradiente nas cores do DigitaMais, bordas arredondadas e um efeito de pulso ao chegar no "1" (preparando melhor o aluno para iniciar).
+ Evolução: Chuva de Letras → Chuva de Palavras
+ 
+A atividade gamificada "Chuva de Letras" evoluiu e agora se chama Chuva de Palavras.
+
+Foi implementada a mesma nova contagem regressiva de 3 segundos antes do início do jogo, garantindo total consistência comportamental e visual com as demais atividades.
+
+ Modernização Visual e Experiência de Uso (UX)
+ 
+Teclado Mais Atraente: As cores de indicação para o posicionamento dos dedos no teclado virtual foram atualizadas para uma paleta moderna de tons lilás/roxos.
+
+Sons Realistas: Substituição dos efeitos de áudio por sons de teclas de computador realistas, proporcionando um feedback tátil-auditivo mais satisfatório.
+
+Interface Otimizada: O design geral da tela de digitação foi remodelado para ocupar menos espaço (abaixo de 60% da tela), deixando a interface mais limpa e fluida.
+
+Identidade de Marca: O título de destaque do site (Hero) ganhou a cor roxa da identidade do DigitaMais, e a interface de idade foi limpa, com foco apenas no texto ("Escolha sua faixa etária", sem emojis desnecessários).
+
 Changelog — DigitaMais
 v2.5.0 — 15/06/2026
 🌧️ Nova Atividade: Chuva de Letras
