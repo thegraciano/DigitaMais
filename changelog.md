@@ -1,3 +1,32 @@
+Changelog — DigitaMais v2.5.0 — 2026-06-22
+
+ Área do Professor
+Removido o modo "Área do Professor" da interface do aplicativo.
+O botão de acesso ao painel foi retirado da tela inicial, tornando o modo administrativo inacessível pela interface.
+Nenhuma palavra foi apagada: todo o banco de palavras (padrões de cada faixa etária e a lógica de carregamento/salvamento) permanece intacto e continua alimentando as atividades normalmente.
+A mensagem de aviso que mencionava o "painel do professor" foi ajustada para um texto genérico.
+Remoção feita sem interferir no funcionamento do restante do site.
+
+ Botão "Chuva de Palavras"
+Redesenhado o botão "Chuva de Palavras" da tela inicial para ganhar maior destaque.
+Botão agora é preenchido e chamativo, no mesmo nível visual do botão "Jogar!" (gradiente animado, texto branco em negrito, sombra forte, brilho deslizante e elevação no hover).
+Cor temática distinta em azul/ciano (remetendo à "chuva"), mantendo o "Jogar!" como ação principal claramente diferenciada.
+Rodapé da tela inicial reorganizado para 2 colunas, equilibrando os dois botões após a remoção da Área do Professor.
+
+ Fundo do jogo "Chuva de Palavras"
+Reformulado o fundo do jogo para deixar as letras mais fluídas e legíveis, sem poluição visual.
+Fundo chapado substituído por um gradiente lilás suave, com efeito de "céu" calmo e maior profundidade.
+Removidas as linhas verticais repetidas (que poluíam a tela) e adicionado um brilho ambiente sutil no topo.
+Letras passaram a usar a fonte arredondada Nunito, mais fluida e amigável, no lugar da fonte monoespaçada.
+Cada letra recebeu um halo branco translúcido por trás, garantindo legibilidade sobre qualquer parte do gradiente.
+Removido o ponto marcador e suavizada a sombra de cada letra, reduzindo elementos na tela.
+Flash de erro (ao digitar a tecla errada) harmonizado com o novo fundo.
+
+ Experiência Geral
+Tela inicial mais limpa e direta, com foco nas atividades.
+Hierarquia visual mais clara entre as ações principais.
+Jogo "Chuva de Palavras" com leitura mais confortável e visual mais sofisticado.
+
 Changelog — DigitaMais Atualização — 17/06/2026
 
  Novo Modo de Digitação: Número
